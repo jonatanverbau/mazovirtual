@@ -1,0 +1,11 @@
+# Directorios de Node
+node_modules/
+
+# Archivos de log
+*.log
+
+# Archivos de caché
+.DS_Store
+npm-debug.log*
+yarn-error.log*
+.eslintcache
